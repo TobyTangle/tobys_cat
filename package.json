@@ -1,0 +1,15 @@
+{
+  "name": "skype_cat",
+  "version": "0.0.1",
+  "description": "Tobys first implementation of a cat bot for skype.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Toby Tangle",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.1.1",
+    "restify": "^4.1.1"
+  }
+}
